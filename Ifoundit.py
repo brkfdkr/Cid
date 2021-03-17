@@ -1,0 +1,3 @@
+#Sadece python
+
+print("Muz")
